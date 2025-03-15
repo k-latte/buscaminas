@@ -1,0 +1,53 @@
+# Archivos de Python generados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+develop-eggs/
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+.env/
+
+# Archivos de PyCharm
+.idea/
+*.iml
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de datos o configuraciones locales (si es necesario)
+*.log
+*.ini
+*.sqlite3
+*.db
+local_settings.py
+
+# Archivos de paquetes de distribución
+dist/
+build/
+*.egg-info/
+
+# Carpeta de coverage
+htmlcov/
+.coverage
+
+# Archivos generados por herramientas de documentación (si usas)
+docs/_build/
+
+# Archivos generados por herramientas de compilación de C/C++
+*.so
+*.o
+*.obj
+*.dll
+*.exe
+
+# Archivos de datos grandes (si no son esenciales)
+data/
